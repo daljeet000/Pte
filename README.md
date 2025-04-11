@@ -104,7 +104,7 @@
     <h1>RS-CIT, Tally, GST, Marg, Busy – सब कुछ एक जगह</h1>
     <p>अनुभवी शिक्षकों द्वारा प्रैक्टिकल ट्रेनिंग के साथ अपने भविष्य को मजबूत बनाएं।</p>
     <p><strong>RS-CIT के साथ फ्री टाइपिंग ट्रेनिंग!</strong></p>
-    <a href="https://wa.me/918690091009" target="_blank"><button class="btn">अब रजिस्टर करें</button></a>
+    <a href="https://wa.me/919358547604" target="_blank"><button class="btn">अब रजिस्टर करें</button></a>
   </div>
 
   <div class="section" id="about">
