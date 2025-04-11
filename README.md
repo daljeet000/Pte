@@ -86,7 +86,7 @@
 </head>
 <body>
   <header>
-    <img src="file-UFXMFS8vfpt2sGCq2Ne7vW.jpeg" alt="Academy Logo">
+    <img src="" alt="Academy Logo">
     <h1>श्री गणेश अकाउंट्स अकैडमी</h1>
     <p>100% जॉब गारंटी के साथ अकाउंटिंग कोर्सेज | आपकी सेवा में 30 साल से अधिक</p>
   </header>
