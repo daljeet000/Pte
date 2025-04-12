@@ -167,7 +167,7 @@
     <p><strong>पवन लिखाला:</strong> 8690091009</p>
     <p><strong>देवीलाल परिहार:</strong> 7728824502</p>
     <p><strong>दलजीत हंस:</strong> 9358547604</p>
-    <iframe class="map-frame" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3515.4515795970535!2d73.9006421150837!3d29.31540988214553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391181ea7ae121ff%3A0x5ffb8ff2c7b2c7dc!2sChandni%20Chowk%2C%20Suratgarh%2C%20Rajasthan!5e0!3m2!1sen!2sin!4v1681668354550!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
+
   </div>
 
   <footer>
