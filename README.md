@@ -168,8 +168,6 @@
     <p><strong>देवीलाल परिहार:</strong> 7728824502</p>
     <p><strong>दलजीत हंस:</strong> 9358547604</p>
 
-  </div>
-
   <footer>
     <p>© 2025 Shree Ganesh Accounts Academy. सभी अधिकार सुरक्षित।</p>
   </footer>
